@@ -1,10 +1,11 @@
-{
+k{
   "name": "michelle-hw2",
   "version": "1.0.0",
   "description": "",
   "main": "index.js",
   "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1"
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node server.js"
   },
   "repository": {
     "type": "git",
@@ -21,6 +22,7 @@
     "express": "^4.16.2"
   },
   "engines": {
-  "node": "9.4.0"
+    "node": "9.4.0"
   },
+
 }
