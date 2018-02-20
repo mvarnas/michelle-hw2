@@ -17,3 +17,6 @@ app.listen(port)
 
 // log runtime message
 console.log(`Server listening at port ${port}`)
+
+// log runtime message
+console.log(`Server listening at port ${port}`)
